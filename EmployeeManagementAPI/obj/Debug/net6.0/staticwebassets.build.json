@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "hT1vC7O6XHwzvVhDVj4jebvGKuPfQJX+lQFzYv1B4Mw=",
+  "Source": "EmployeeManagementAPI",
+  "BasePath": "_content/EmployeeManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EmployeeManagementAPI\\wwwroot",
+      "Source": "EmployeeManagementAPI",
+      "ContentRoot": "C:\\Users\\m4ng0\\Desktop\\GECO training\\EmployeeManagementAPI\\EmployeeManagementAPI\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagementAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\m4ng0\\Desktop\\GECO training\\EmployeeManagementAPI\\EmployeeManagementAPI\\wwwroot\\EmployeeImages\\clipart4508992.png",
+      "SourceId": "EmployeeManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\m4ng0\\Desktop\\GECO training\\EmployeeManagementAPI\\EmployeeManagementAPI\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagementAPI",
+      "RelativePath": "EmployeeImages/clipart4508992.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\EmployeeImages\\clipart4508992.png"
+    }
+  ]
+}
